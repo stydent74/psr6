@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/.idea/api.iml" filepath="$PROJECT_DIR$/api/.idea/api.iml" />
       <module fileurl="file://$PROJECT_DIR$/frontend/.idea/frontend.iml" filepath="$PROJECT_DIR$/frontend/.idea/frontend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/psr6.iml" filepath="$PROJECT_DIR$/.idea/psr6.iml" />
     </modules>
