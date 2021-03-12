@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:vetka01-2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="662dadcd-73ec-4db8-9856-510f1d485701" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/docker/development/php-fpm/conf.d/security.ini" beforeDir="false" afterPath="$PROJECT_DIR$/api/docker/development/php-fpm/conf.d/security.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/docker/development/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/development/nginx/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/docker/development/nginx/conf.d/api.conf" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/development/nginx/conf.d/api.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/docker/development/nginx/conf.d/frontend.conf" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/development/nginx/conf.d/frontend.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="Make.Settings">
+    <option name="path" value="\\wsl$\Ubuntu-18.04\usr\bin\make-first-existing-target" />
+  </component>
+  <component name="ProjectId" id="1pM5Ku4DTOkgrgsSMhjYI5OeGku" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/docker" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.PHP" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\PHPShtorm\psr6\frontend\docker" />
+      <recent name="H:\PHPShtorm\psr6\gateway\docker" />
+      <recent name="H:\PHPShtorm\psr6\api\docker" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="662dadcd-73ec-4db8-9856-510f1d485701" name="Default Changelist" comment="" />
+      <created>1614980057648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614980057648</updated>
+      <workItem from="1614980058753" duration="525000" />
+      <workItem from="1615015055733" duration="8621000" />
+      <workItem from="1615047138975" duration="326000" />
+      <workItem from="1615048443653" duration="5125000" />
+      <workItem from="1615057251460" duration="472000" />
+      <workItem from="1615058471337" duration="1466000" />
+      <workItem from="1615060304703" duration="83000" />
+      <workItem from="1615060440783" duration="94000" />
+      <workItem from="1615060555099" duration="22000" />
+      <workItem from="1615060593511" duration="258000" />
+      <workItem from="1615061112009" duration="4454000" />
+      <workItem from="1615110010271" duration="18017000" />
+      <workItem from="1615206469143" duration="1114000" />
+      <workItem from="1615279262089" duration="1097000" />
+      <workItem from="1615289986384" duration="15809000" />
+      <workItem from="1615327571202" duration="248000" />
+      <workItem from="1615327838770" duration="88000" />
+      <workItem from="1615327952278" duration="638000" />
+      <workItem from="1615328615214" duration="482000" />
+      <workItem from="1615367126492" duration="1349000" />
+      <workItem from="1615374751365" duration="16885000" />
+      <workItem from="1615410258596" duration="2988000" />
+      <workItem from="1615449486781" duration="281000" />
+      <workItem from="1615449783941" duration="53000" />
+      <workItem from="1615449938575" duration="864000" />
+      <workItem from="1615450893869" duration="668000" />
+      <workItem from="1615451584182" duration="1088000" />
+      <workItem from="1615452700495" duration="13523000" />
+      <workItem from="1615535701250" duration="14171000" />
+      <workItem from="1615578937891" duration="27000" />
+      <workItem from="1615579475026" duration="14000" />
+      <workItem from="1615579512282" duration="1105000" />
+      <workItem from="1615580622089" duration="105000" />
+      <workItem from="1615581124290" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="vetka01-2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="37" />
+                  <entry key="3" value="103" />
+                  <entry key="4" value="205" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="395" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615458238401">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="734" y="395" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1615458238401" />
+    <state x="650" y="122" key="#php-fpm/Dockerfile" timestamp="1615450954128">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="650" y="122" key="#php-fpm/Dockerfile/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1615450954128" />
+    <state x="1940" y="104" width="1225" height="773" key="DiffContextDialog" timestamp="1615575675589">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="1940" y="104" width="1225" height="773" key="DiffContextDialog/0.0.1920.1160/1920.0.1280.984@1920.0.1280.984" timestamp="1615575675589" />
+    <state x="873" y="325" key="FileChooserDialogImpl" timestamp="1615453360670">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="873" y="325" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1615453360670" />
+    <state x="2063" y="273" key="SettingsEditor" timestamp="1615568366084">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="442" y="228" key="SettingsEditor/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1615453363167" />
+    <state x="2063" y="273" key="SettingsEditor/0.0.1920.1160/1920.0.1280.984@1920.0.1280.984" timestamp="1615568366084" />
+  </component>
+</project>
