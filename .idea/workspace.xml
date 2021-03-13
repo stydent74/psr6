@@ -17,8 +17,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="662dadcd-73ec-4db8-9856-510f1d485701" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/dockerignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,10 +173,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="734" y="395" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615458238401">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="2409" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615656431588">
+      <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="734" y="395" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1615458238401" />
+    <state x="2409" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160/1920.0.1280.984@1920.0.1280.984" timestamp="1615656431588" />
     <state x="650" y="122" key="#php-fpm/Dockerfile" timestamp="1615450954128">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
