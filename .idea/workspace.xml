@@ -17,24 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="662dadcd-73ec-4db8-9856-510f1d485701" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api/docker/common/nginx/conf.d/default.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/docker/common/php/conf.d/security.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/docker/common/nginx/conf.d/default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/docker/development/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/api/docker/development/nginx/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/docker/development/nginx/conf.d/default.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/docker/development/php-fpm/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/api/docker/development/php-fpm/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/docker/development/php-fpm/conf.d/security.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/docker/production/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/api/docker/production/nginx/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/docker/production/nginx/conf.d/default.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/docker/production/php-fpm/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/api/docker/production/php-fpm/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/docker/production/php-fpm/conf.d/security.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/docker/development/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/docker/development/nginx/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/docker/development/nginx/conf.d/default.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/docker/production/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/docker/production/nginx/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/docker/production/nginx/conf.d/default.conf" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/dockerignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/docker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="inlay.hints.PHP" />
     <property name="vue.rearranger.settings.migration" value="true" />
