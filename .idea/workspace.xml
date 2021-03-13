@@ -17,7 +17,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="662dadcd-73ec-4db8-9856-510f1d485701" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api/dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/docker/common/nginx/snippets/sertbot.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/docker/common/nginx/snippets/ssl.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/docker/development/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/development/nginx/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/docker/production/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/production/nginx/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/docker/production/nginx/conf.d/api.conf" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/production/nginx/conf.d/api.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/docker/production/nginx/conf.d/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/production/nginx/conf.d/default.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/docker/production/nginx/conf.d/frontend.conf" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/production/nginx/conf.d/frontend.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\PHPShtorm\psr6\api" />
       <recent name="H:\PHPShtorm\psr6\frontend\docker" />
       <recent name="H:\PHPShtorm\psr6\gateway\docker" />
       <recent name="H:\PHPShtorm\psr6\api\docker" />
@@ -181,10 +190,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="650" y="122" key="#php-fpm/Dockerfile/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1615450954128" />
-    <state x="1940" y="104" width="1225" height="773" key="DiffContextDialog" timestamp="1615575675589">
+    <state x="1940" y="104" width="1225" height="773" key="DiffContextDialog" timestamp="1615662292777">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
-    <state x="1940" y="104" width="1225" height="773" key="DiffContextDialog/0.0.1920.1160/1920.0.1280.984@1920.0.1280.984" timestamp="1615575675589" />
+    <state x="1940" y="104" width="1225" height="773" key="DiffContextDialog/0.0.1920.1160/1920.0.1280.984@1920.0.1280.984" timestamp="1615662292777" />
     <state x="873" y="325" key="FileChooserDialogImpl" timestamp="1615453360670">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
