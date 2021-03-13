@@ -32,3 +32,15 @@ build-api:
 
 try-build:
 	REGISTRY=localhost IMAGE_TAG=0 make build
+
+push: push-gateway push-frontend push-api
+
+push-gateway:
+	docker push ${REGISTRY}/psr6-gateway:${IMAGE_TAG}
+
+push-frontend:
+	docker push ${REGISTRY}/psr6-frontend:${IMAGE_TAG}
+
+push-api:
+	docker push ${REGISTRY}/psr6-api:${IMAGE_TAG}
+	docker push ${REGISTRY}/psr6-api-php-fpm:${IMAGE_TAG}
