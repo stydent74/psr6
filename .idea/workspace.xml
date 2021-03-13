@@ -17,12 +17,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="662dadcd-73ec-4db8-9856-510f1d485701" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/docker/development/php-fpm/conf.d/security.ini" beforeDir="false" afterPath="$PROJECT_DIR$/api/docker/development/php-fpm/conf.d/security.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/docker/development/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/development/nginx/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/docker/development/nginx/conf.d/api.conf" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/development/nginx/conf.d/api.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/docker/development/nginx/conf.d/frontend.conf" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/docker/development/nginx/conf.d/frontend.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +105,8 @@
       <workItem from="1615579512282" duration="1105000" />
       <workItem from="1615580622089" duration="105000" />
       <workItem from="1615581124290" duration="119000" />
+      <workItem from="1615639066578" duration="247000" />
+      <workItem from="1615639671770" duration="530000" />
     </task>
     <servers />
   </component>
