@@ -17,18 +17,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="662dadcd-73ec-4db8-9856-510f1d485701" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api/docker/production/nginx/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/docker/production/nginx/conf.d/default.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/docker/production/php-fpm/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/docker/production/php-fpm/conf.d/security.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/docker/production/nginx/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/docker/production/nginx/conf.d/default.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/docker/production/nginx/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/docker/production/nginx/conf.d/api.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/docker/production/nginx/conf.d/default.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/docker/production/nginx/conf.d/frontend.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
